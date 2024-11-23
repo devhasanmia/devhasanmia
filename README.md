@@ -1,6 +1,6 @@
 
 <p>
-  <img alt="banner" src="https://raw.githubusercontent.com/devhasanmia/assets/refs/heads/main/banner/banner.jpg"/>
+  <img alt="banner" src="https://raw.githubusercontent.com/devhasanmia/assets/refs/heads/main/banner/banner.jpg" height="250px" width="100%"/>
 </p>
 <h2>
   <img src="https://github.com/fluidicon.png" width="30" />
