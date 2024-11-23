@@ -1,3 +1,7 @@
+
+<p>
+  <img alt="banner" src="https://raw.githubusercontent.com/devhasanmia/assets/refs/heads/main/banner/banner.jpg"/>
+</p>
 <h2>
   <img src="https://github.com/fluidicon.png" width="30" />
   Hi,👋 Welcome To My Coding Playground!
