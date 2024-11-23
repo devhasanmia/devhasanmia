@@ -66,5 +66,5 @@
 <hr/>
 <ul>
   
-  <a href="https://youtu.be/oOS4SVWYDQE"><b><img src="https://res.cloudinary.com/ddoacwzvp/image/upload/v1732205636/3_mrd2pv.png" width="300px" alt="" />
+  <a href="https://youtu.be/oOS4SVWYDQE"><b><img src="https://raw.githubusercontent.com/devhasanmia/assets/refs/heads/main/youtube/meeting-room.png" width="300px" alt="" />
 </ul>
