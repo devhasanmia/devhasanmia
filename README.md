@@ -18,6 +18,7 @@
   <img alt="redux" src="https://raw.githubusercontent.com/devhasanmia/assets/refs/heads/main/icons/redux.png" />
   <img alt="tailwindcss" src="https://raw.githubusercontent.com/devhasanmia/assets/refs/heads/main/icons/tailwindcss.png" />
 </p>
+<h3>Showcase of My Top Projects</h3>
 <table style="width:100%>
   <thead align="center">
     <tr border: none;>
