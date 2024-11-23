@@ -4,6 +4,7 @@
 </h2>
 
 <p>I'm Md. Hasan Mia, a passionate MERN stack developer from <b>Bangladesh</b>. </p>
+<p>With over four years of experience in web development, I’m driven by a passion for creating beautiful, intuitive, and impactful digital experiences. My expertise spans across the MERN stack and modern front-end frameworks, allowing me to build seamless applications that not only meet user needs but also inspire delight. I believe in the power of thoughtful design and clean code, and I’m always eager to explore new technologies to refine my craft. Every project is an opportunity to create something meaningful, and I am excited to continue pushing the limits of web development with every line of code I write.</p>
 
 <h3>Development Stack</h3>
 
