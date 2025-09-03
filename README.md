@@ -70,5 +70,5 @@
 <ul>
   
   <a href="https://youtu.be/oOS4SVWYDQE"><b><img src="https://raw.githubusercontent.com/devhasanmia/assets/refs/heads/main/youtube/meeting-room.png" width="300px" alt="" />
-   <a href="https://youtu.be/oOS4SVWYDQE"><b><img src="https://raw.githubusercontent.com/devhasanmia/assets/refs/heads/main/youtube/meeting-room.png" width="300px" alt="" />
+   <a href="https://drive.google.com/drive/folders/1XlxMn2jXnoD1BagWJFrz2z1MSxbrQcXR?usp=sharing"><b><img src="https://res.cloudinary.com/deicntkum/image/upload/v1756889178/Orange_Bright_Colorful_Modern_Abstract_Money_Finance_YouTube_Thumbnail_swsq4i.jpg" width="300px" alt="" />
 </ul>
