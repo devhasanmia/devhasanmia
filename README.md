@@ -8,16 +8,17 @@
 
 <p>Driven by a passion for creating impactful digital experiences, I focus on delivering seamless solutions that blend thoughtful design with clean, efficient code. I continuously explore new technologies and best practices to enhance my skills and ensure every project is an opportunity to innovate and inspire.</p>
 
-<h3>My Toolbox for Building Great Software:</h3>
+<h3>My Toolbox for Building Great Web Application: </h3>
 
 <ul>
-  <li><b>Creating Engaging Front-Ends:</b> I craft dynamic and responsive user interfaces using technologies like React.js and Next.js, ensuring a smooth and enjoyable experience for anyone using the application.</li>
-  <li><b>Developing Solid Back-Ends:</b> On the server side, I build powerful and secure systems with Node.js, Express.js, and NestJS, which act as the brain of the application, managing data and business logic.</li>
-  <li><b>Managing Data Efficiently:</b> I work with various databases such as MongoDB and PostgreSQL, employing tools like Mongoose and Prisma to organize and access information reliably and quickly.</li>
-  <li><b>Ensuring Code Quality:</b> I write code using TypeScript for better reliability and maintainability, making sure applications are robust and scalable.</li>
-  <li><b>Automating & Deploying:</b> I use tools like Docker and understand cloud services (AWS) to efficiently package and deploy applications, alongside setting up automated pipelines for continuous improvements.</li>
-  <li><b>Making it Bug-Free:</b> I also focus on testing my code thoroughly to deliver stable and high-quality software.</li>
+  <li><b>Building User-Friendly Websites:</b> Expert in creating smooth, interactive, and fast web interfaces using <b>React.js</b>, <b>Next.js</b>, and modern styling with <b>Tailwind CSS</b>. I manage complex application states efficiently with <b>Redux Toolkit (RTK)</b> and optimize data fetching using <b>TanStack Query</b>.</li>
+  <li><b>Powerful Back-End Systems:</b> Developing robust and secure server-side logic and APIs with <b>Node.js</b>, <b>Express.js</b>, and <b>NestJS</b>, handling everything from user authentication to complex data processing.</li>
+  <li><b>Smart Data Management:</b> Designing and managing efficient databases like <b>MongoDB</b> and <b>PostgreSQL</b>, ensuring data is stored, retrieved, and managed reliably using tools like <b>Mongoose</b> and <b>Prisma</b>.</li>
+  <li><b>Modern & Reliable Code:</b> Writing cleaner, safer, and scalable code with <b>TypeScript</b>, ensuring applications are easy to maintain and extend.</li>
+  <li><b>Deployment & Optimization:</b> Familiar with putting applications online (deploying) using platforms like Docker, and possessing <b>basic knowledge of AWS</b> for cloud infrastructure. I also understand continuous integration/delivery (CI/CD) principles.</li>
+  <li><b>Quality Assurance:</b> Dedicated to delivering reliable software, with <b>basic knowledge of testing methodologies</b> to ensure applications are stable and bug-free.</li>
 </ul>
+
 
 <p>
   <img alt="nodeJs" src="https://raw.githubusercontent.com/devhasanmia/assets/refs/heads/main/icons/nodejs.png" style="margin-right:5px" />
