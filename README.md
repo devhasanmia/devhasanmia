@@ -66,12 +66,12 @@
     </tr>
     <tr>
       <td>
-     <a href="https://github.com/devhasanmia/meeting-room">
-     <b>Meeting Room</b>
+     <a href="https://github.com/devhasanmia/digital-wallet">
+     <b>digital wallet</b>
      </a>
       </td>
       <td>
-      <a href="https://meeting-room-five.vercel.app/"><b>Live Demo</b></a>
+      <a href="https://digital-wallet-dev.netlify.app/"><b>Live Demo</b></a>
       </td>
       <td>
      <b><p>
