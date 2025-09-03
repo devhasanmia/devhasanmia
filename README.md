@@ -2,12 +2,11 @@
 <p>
   <img alt="banner" src="https://res.cloudinary.com/deicntkum/image/upload/v1756890636/Abstract_Technology_Profile_LinkedIn_Banner_ybm38l.png" height="250px" width="100%"/>
 </p>
-<h2>
-  Hi, Welcome To my coding playground!
-</h2>
+<h2>Hi, welcome to my coding playground!</h2>
 
-<p>I'm Md. Hasan Mia, a passionate MERN stack developer from <b>Bangladesh</b>. </p>
-<p>With over four years of experience in web development, I’m driven by a passion for creating beautiful, intuitive, and impactful digital experiences. My expertise spans across the MERN stack and modern front-end frameworks, allowing me to build seamless applications that not only meet user needs but also inspire delight. I believe in the power of thoughtful design and clean code, and I’m always eager to explore new technologies to refine my craft. Every project is an opportunity to create something meaningful, and I am excited to continue pushing the limits of web development with every line of code I write.</p>
+<p>I'm <b>Md. Hasan Mia</b>, a Full-Stack Developer from Bangladesh with over 4 years of hands-on experience. I'm passionate about building elegant and impactful digital experiences using the <b>MERN Stack</b>.</p>
+
+<p>My approach centers on transforming innovative ideas into functional, user-friendly web applications. I pride myself on writing clean, maintainable code and embracing new technologies to deliver delightful user journeys. Let's build something amazing together!</p>
 
 <h3>Development Stack</h3>
 
