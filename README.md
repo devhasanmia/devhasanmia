@@ -8,15 +8,15 @@
 
 <p>Driven by a passion for creating impactful digital experiences, I focus on delivering seamless solutions that blend thoughtful design with clean, efficient code. I continuously explore new technologies and best practices to enhance my skills and ensure every project is an opportunity to innovate and inspire.</p>
 
-<h3>Development Stack</h3>
+<h3>My Toolbox for Building Great Software:</h3>
 
 <ul>
-  <li><b>Languages:</b> JavaScript, TypeScript</li>
-  <li><b>Front-End:</b> React.js, Next.js, Redux Toolkit, Tailwind CSS</li>
-  <li><b>Back-End:</b> Node.js, Express.js, NestJS, RESTful APIs, GraphQL</li>
-  <li><b>Databases/ORMs:</b> MongoDB, PostgreSQL, Mongoose, Prisma, Redis</li>
-  <li><b>DevOps/Cloud:</b> Docker, AWS (basics), CI/CD pipelines, Git</li>
-  <li><b>Other:</b> WebSockets, Microservices (basic understanding)</li>
+  <li><b>Creating Engaging Front-Ends:</b> I craft dynamic and responsive user interfaces using technologies like React.js and Next.js, ensuring a smooth and enjoyable experience for anyone using the application.</li>
+  <li><b>Developing Solid Back-Ends:</b> On the server side, I build powerful and secure systems with Node.js, Express.js, and NestJS, which act as the brain of the application, managing data and business logic.</li>
+  <li><b>Managing Data Efficiently:</b> I work with various databases such as MongoDB and PostgreSQL, employing tools like Mongoose and Prisma to organize and access information reliably and quickly.</li>
+  <li><b>Ensuring Code Quality:</b> I write code using TypeScript for better reliability and maintainability, making sure applications are robust and scalable.</li>
+  <li><b>Automating & Deploying:</b> I use tools like Docker and understand cloud services (AWS) to efficiently package and deploy applications, alongside setting up automated pipelines for continuous improvements.</li>
+  <li><b>Making it Bug-Free:</b> I also focus on testing my code thoroughly to deliver stable and high-quality software.</li>
 </ul>
 
 <p>
