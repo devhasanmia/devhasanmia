@@ -3,7 +3,7 @@
   <img alt="banner" src="https://res.cloudinary.com/deicntkum/image/upload/v1756890636/Abstract_Technology_Profile_LinkedIn_Banner_ybm38l.png" height="250px" width="100%"/>
 </p>
 <h2>
-  Hi, Welcome To My Coding Playground!
+  Hi, Welcome To my coding playground!
 </h2>
 
 <p>I'm Md. Hasan Mia, a passionate MERN stack developer from <b>Bangladesh</b>. </p>
