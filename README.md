@@ -2,13 +2,22 @@
 <p>
   <img alt="banner" src="https://res.cloudinary.com/deicntkum/image/upload/v1756890636/Abstract_Technology_Profile_LinkedIn_Banner_ybm38l.png" height="250px" width="100%"/>
 </p>
-<h2>Hi, welcome to my coding playground!</h2>
+<h2>Welcome to my coding playground!</h2>
 
-<p>I'm <b>Md. Hasan Mia</b>, a Full-Stack Developer from Bangladesh with over 4 years of hands-on experience. I'm passionate about building elegant and impactful digital experiences using the <b>MERN Stack</b>.</p>
+<p>Hello! I'm <b>Md. Hasan Mia</b>, a dedicated Full-Stack Engineer based in Bangladesh, bringing over 4 years of experience to the table. My core expertise lies in the <b>MERN Stack</b>, where I build robust, intuitive, and performant web applications.</p>
 
-<p>My approach centers on transforming innovative ideas into functional, user-friendly web applications. I pride myself on writing clean, maintainable code and embracing new technologies to deliver delightful user journeys. Let's build something amazing together!</p>
+<p>Driven by a passion for creating impactful digital experiences, I focus on delivering seamless solutions that blend thoughtful design with clean, efficient code. I continuously explore new technologies and best practices to enhance my skills and ensure every project is an opportunity to innovate and inspire.</p>
 
 <h3>Development Stack</h3>
+
+<ul>
+  <li><b>Languages:</b> JavaScript, TypeScript</li>
+  <li><b>Front-End:</b> React.js, Next.js, Redux Toolkit, Tailwind CSS</li>
+  <li><b>Back-End:</b> Node.js, Express.js, NestJS, RESTful APIs, GraphQL</li>
+  <li><b>Databases/ORMs:</b> MongoDB, PostgreSQL, Mongoose, Prisma, Redis</li>
+  <li><b>DevOps/Cloud:</b> Docker, AWS (basics), CI/CD pipelines, Git</li>
+  <li><b>Other:</b> WebSockets, Microservices (basic understanding)</li>
+</ul>
 
 <p>
   <img alt="nodeJs" src="https://raw.githubusercontent.com/devhasanmia/assets/refs/heads/main/icons/nodejs.png" style="margin-right:5px" />
