@@ -67,7 +67,7 @@
     <tr>
       <td>
      <a href="https://github.com/devhasanmia/digital-wallet">
-     <b>digital wallet</b>
+     <b>Digital Wallet</b>
      </a>
       </td>
       <td>
