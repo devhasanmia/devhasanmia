@@ -1,5 +1,3 @@
-
-
 <p>
   <img alt="banner" src="https://res.cloudinary.com/deicntkum/image/upload/v1756890636/Abstract_Technology_Profile_LinkedIn_Banner_ybm38l.png" height="250px" width="100%"/>
 </p>
