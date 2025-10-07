@@ -16,7 +16,7 @@
   <li><b>Modern & Reliable Code:</b> Writing cleaner, safer, and scalable code with <b>TypeScript</b>, ensuring applications are easy to maintain and extend.</li>
   <li><b>Deployment & Optimization:</b> Familiar with putting applications online (deploying) using platforms like Docker, and possessing <b>basic knowledge of AWS</b> for cloud infrastructure. I also understand continuous integration/delivery (CI/CD) principles.</li>
   <li><b>Quality Assurance:</b> Dedicated to delivering reliable software, with <b>basic knowledge of testing methodologies</b> to ensure applications are stable and bug-free.</li>
-</ul>
+</ul> 
 
 
 <p>
