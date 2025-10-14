@@ -8,7 +8,6 @@
 <p>Driven by a passion for creating impactful digital experiences, I focus on delivering seamless solutions that blend thoughtful design with clean, efficient code. I continuously explore new technologies and best practices to enhance my skills and ensure every project is an opportunity to innovate and inspire.</p>
 
 <h3>My Toolbox for Building Great Web Application : </h3>
-
 <ul>
   <li><b>Building User-Friendly Websites:</b> Expert in creating smooth, interactive, and fast web interfaces using <b>React.js</b>, <b>Next.js</b>, and modern styling with <b>Tailwind CSS</b>. I manage complex application states efficiently with <b>Redux Toolkit (RTK)</b> and optimize data fetching using <b>TanStack Query</b>.</li>
   <li><b>Powerful Back-End Systems:</b> Developing robust and secure server-side logic and APIs with <b>Node.js</b>, <b>Express.js</b>, and <b>NestJS</b>, handling everything from user authentication to complex data processing.</li>
