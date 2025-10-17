@@ -2,7 +2,6 @@
   <img alt="banner" src="https://res.cloudinary.com/deicntkum/image/upload/v1756890636/Abstract_Technology_Profile_LinkedIn_Banner_ybm38l.png" height="250px" width="100%"/>
 </p>
 <h2>Welcome to my coding playground!</h2>
-
 <p>Hello! I'm <b>Md. Hasan Mia</b>, a dedicated Full-Stack Engineer based in Bangladesh, bringing over 4 years of experience to the table. My core expertise lies in the <b>MERN Stack</b>, where I build robust, intuitive, and performant web applications.</p>
 
 <p>Driven by a passion for creating impactful digital experiences, I focus on delivering seamless solutions that blend thoughtful design with clean, efficient code. I continuously explore new technologies and best practices to enhance my skills and ensure every project is an opportunity to innovate and inspire.</p>
