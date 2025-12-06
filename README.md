@@ -24,7 +24,7 @@
   <img alt="mongoosejs" src="https://raw.githubusercontent.com/devhasanmia/assets/refs/heads/main/icons/mongoose.png" />
   <img alt="typescript" src="https://raw.githubusercontent.com/devhasanmia/assets/refs/heads/main/icons/typescript.png" />
   <img alt="reactjs" src="https://raw.githubusercontent.com/devhasanmia/assets/refs/heads/main/icons/react.png" />
-  <img alt="redux" src="https://raw.githubusercontent.com/devhasanmia/assets/refs/heads/main/icons/redux.png" />
+  <img alt="redux" src="https://raw.githubusercontent.com/devhasanmia/assets/refs/heads/main/icons/redux.png"/>
   <img alt="tailwindcss" src="https://raw.githubusercontent.com/devhasanmia/assets/refs/heads/main/icons/tailwindcss.png" />
 </p>
 <h3>Showcase of My Top Projects</h3>
